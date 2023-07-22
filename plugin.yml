@@ -1,0 +1,5 @@
+name: Tr-BedrockTimber
+api: [5.0.0]
+main: TrueToneTeam\BedrockTimber\BedrockTimber
+version: "1.0.0"
+author: NeroLuna
